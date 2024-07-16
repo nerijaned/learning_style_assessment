@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692434276304",
+    "project_id": "neri-summer2024-sp",
+    "storage_bucket": "neri-summer2024-sp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692434276304:android:4723da51076420e94733d5",
+        "android_client_info": {
+          "package_name": "com.example.learning_style_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYtsGry_cWBnDPAN5A_oRrY41q0eM81j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
